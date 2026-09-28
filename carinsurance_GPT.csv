@@ -1,0 +1,13 @@
+Age,Gender,City,CarType,InsuranceGroup,Premium
+25,M,London,SUV,Low,520
+34,F,Stirling,Hatchback,Medium,680
+45,F,Glasgow,Sedan,High,910
+29,M,London,SUV,Low,570
+52,M,Edinburgh,Sedan,High,1050
+41,F,Stirling,Hatchback,Medium,720
+31,M,Glasgow,SUV,Low,610
+60,F,London,Sedan,High,1120
+38,M,Edinburgh,Hatchback,Medium,750
+27,F,Glasgow,SUV,Low,590
+48,M,Stirling,Sedan,High,980
+35,F,London,Hatchback,Medium,700
